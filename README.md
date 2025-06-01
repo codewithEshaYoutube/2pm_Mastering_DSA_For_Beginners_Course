@@ -28,18 +28,28 @@ To develop problem-solving skills and algorithmic thinking by teaching core DSA 
 
 ---
 
-## 🧠 Weekly Focus
+## 🧠 Weekly Focus & Coding Patterns
 
-Each week will cover a major algorithmic theme:
+### 📌 Week 1: Introduction & Binary Search
+- **Patterns:** Sliding Window (Intro), Two Pointers, Binary Search
 
-- Week 1: Recursion Workshop
-- Week 2: Arrays & Strings
-- Week 3: Hash Tables & Sets
-- Week 4: Binary Search & Sorting
-- Week 5: Linked Lists & Two Pointers
-- Week 6: Stacks, Queues, and Interview Patterns
+### 📌 Week 2: Sorting Algorithms
+- **Patterns:** Sorting & Searching
 
-🧪 Fridays are reserved for **problem-solving & mini-assessments**.
+### 📌 Week 3: Recursion & Backtracking
+- **Patterns:** Recursion, Backtracking
+
+### 📌 Week 4: Hash Tables
+- **Patterns:** Hash Maps, Frequency Counting
+
+### 📌 Week 5: Arrays, Strings & Sliding Window
+- **Patterns:** Sliding Window, Two Pointers
+
+### 📌 Week 6: Graphs & Dynamic Programming
+- **Patterns:** BFS, DFS, Memoization, Tabulation
+
+### 🧪 Fridays:
+- **Student presentations & problem walkthroughs**
 
 ---
 
@@ -47,21 +57,23 @@ Each week will cover a major algorithmic theme:
 
 ### Trainers & Facilitators
 - **Esha Tariq** — Lead Trainer & Technical Instructor  
-- **Muhammad Jasim**
+- **Muhammad Jasim** — Trainer  
 
-### Team Support
-- **Fouzia Akbar**
+### Moderation & Support
+- **Fouzia Akbar**  
 - **Masab Afzaal**
 
 ---
 
 ## 📖 Resources
 
-- Primary reference book: **Grokking Algorithms – An illustrated guide for beginners**  
-- Platform for coding practice: **[LeetCode](https://leetcode.com/)**  
-- Tools: Visualizer tools, Python notebooks, and whiteboard walkthroughs
-
-This book is beginner-friendly and explains core algorithmic ideas through visuals and examples, making it easier to grasp difficult concepts.
+- **Primary Book Reference:**  
+  _Grokking Algorithms – An illustrated guide for programmers and the curious_
+  
+- **Coding Platform:** [LeetCode](https://leetcode.com/)
+  
+- **Additional Tools:**  
+  Python Notebooks, Visual Tracing Tools, Whiteboarding, Interactive Problem Solving
 
 ---
 
