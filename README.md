@@ -77,5 +77,4 @@ To develop problem-solving skills and algorithmic thinking by teaching core DSA 
 
 ---
 
-## 📂 Repository Structure
 
