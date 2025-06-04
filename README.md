@@ -12,9 +12,9 @@ To develop problem-solving skills and algorithmic thinking by teaching core DSA 
 
 ## 🕑 Live Sessions
 
-- **Time:** 2:00 PM PKT (Pakistan Standard Time)
-- **Mode:** Online (via Zoom / iCodeGuru Platform)
-- **Medium:** English + Urdu (Bilingual Explanation)
+- **Time:** 2:00 PM PKT (Pakistan Standard Time)  
+- **Mode:** Online (via Zoom / iCodeGuru Platform)  
+- **Medium:** English + Urdu (Bilingual Explanation)  
 
 ---
 
@@ -23,58 +23,69 @@ To develop problem-solving skills and algorithmic thinking by teaching core DSA 
 🗒️ Complete outline is available here:  
 📄 [Course Outline - Google Doc](https://docs.google.com/document/d/1vQ6EDJm5ZdwtnD7L3Rceym-AvwLQNkHfIk1pei3KsQs/edit?tab=t.0)
 
-📊 We will maintain a live tracker with daily topics, resources, and attendance:  
-📈 [Course Tracker - Google Sheet](https://docs.google.com/spreadsheets/d/1h82e-YxyAaESvkeQTcZIJxAtAj43uyvfGqxjTW3Nd08/edit?gid=1151484250#gid=1151484250)
+📊 We maintain a live tracker with daily topics, resources, attendance, and **session recordings** here:  
+🔗 https://docs.google.com/spreadsheets/d/1h82e-YxyAaESvkeQTcZIJxAtAj43uyvfGqxjTW3Nd08/edit?gid=1151484250#gid=1151484250
 
 ---
 
 ## 🧠 Weekly Focus & Coding Patterns
 
-### 📌 Week 1: Introduction & Binary Search
-- **Patterns:** Sliding Window (Intro), Two Pointers, Binary Search
+### 📌 Week 1: Introduction & Binary Search  
+- **Patterns:** Sliding Window (Intro), Two Pointers, Binary Search  
 
-### 📌 Week 2: Sorting Algorithms
-- **Patterns:** Sorting & Searching
+### 📌 Week 2: Sorting Algorithms  
+- **Patterns:** Sorting & Searching  
 
-### 📌 Week 3: Recursion & Backtracking
-- **Patterns:** Recursion, Backtracking
+### 📌 Week 3: Recursion & Backtracking  
+- **Patterns:** Recursion, Backtracking  
 
-### 📌 Week 4: Hash Tables
-- **Patterns:** Hash Maps, Frequency Counting
+### 📌 Week 4: Hash Tables  
+- **Patterns:** Hash Maps, Frequency Counting  
 
-### 📌 Week 5: Arrays, Strings & Sliding Window
-- **Patterns:** Sliding Window, Two Pointers
+### 📌 Week 5: Arrays, Strings & Sliding Window  
+- **Patterns:** Sliding Window, Two Pointers  
 
-### 📌 Week 6: Graphs & Dynamic Programming
-- **Patterns:** BFS, DFS, Memoization, Tabulation
+### 📌 Week 6: Graphs & Dynamic Programming  
+- **Patterns:** BFS, DFS, Memoization, Tabulation  
 
-### 🧪 Fridays:
-- **Student presentations & problem walkthroughs**
+### 🧪 Fridays:  
+- Student presentations & problem walkthroughs  
 
 ---
 
 ## 👩‍🏫 Core Team
 
-### Trainers & Facilitators
+### Trainers & Facilitators  
 - **Esha Tariq** — Lead Trainer & Technical Instructor  
 - **Muhammad Jasim** — Trainer  
 
-### Moderation & Support
+### Moderation & Support  
 - **Fouzia Akbar**  
-- **Masab Afzaal**
+- **Masab Afzaal**  
 
 ---
 
 ## 📖 Resources
 
 - **Primary Book Reference:**  
-  _Grokking Algorithms – An illustrated guide for programmers and the curious_
+  _Grokking Algorithms – An illustrated guide for programmers and the curious_  
   
-- **Coding Platform:** [LeetCode](https://leetcode.com/)
+- **Coding Platform:** [LeetCode](https://leetcode.com/)  
   
 - **Additional Tools:**  
-  Python Notebooks, Visual Tracing Tools, Whiteboarding, Interactive Problem Solving
+  Python Notebooks, Visual Tracing Tools, Whiteboarding, Interactive Problem Solving  
 
 ---
 
+## 🎥 Session Recordings & Details (Sample)
+
+| Date      | Day   | Recording Link                                                   | Views        | Trainer       | Topic                              |
+|-----------|-------|-----------------------------------------------------------------|--------------|---------------|-----------------------------------|
+| 6/2/2025  | Mon   | https://www.facebook.com/share/v/19yAg8i94e/                    | 1480, 977    | Muhammad Jasim| Intro to DSA, Big-O Notation, Python Recap |
+| 6/3/2025  | Tue   | https://www.facebook.com/share/v/1AZ7xJrcMS/                    | 704, 35, 69  | Esha Tariq    | Binary Search (Basics)             |
+
+---
+
+**Thank you for being part of this mission to democratize coding education.**  
+Feel free to contribute or reach out for collaboration!
 
