@@ -24,7 +24,13 @@ To develop problem-solving skills and algorithmic thinking by teaching core DSA 
 📄 [Course Outline - Google Doc](https://docs.google.com/document/d/1vQ6EDJm5ZdwtnD7L3Rceym-AvwLQNkHfIk1pei3KsQs/edit?tab=t.0)
 
 📊 We maintain a live tracker with daily topics, resources, attendance, and **session recordings** here:  
-🔗 https://docs.google.com/spreadsheets/d/1h82e-YxyAaESvkeQTcZIJxAtAj43uyvfGqxjTW3Nd08/edit?gid=1151484250#gid=1151484250
+🔗[Recordings Sheet](https://docs.google.com/spreadsheets/d/1h82e-YxyAaESvkeQTcZIJxAtAj43uyvfGqxjTW3Nd08/edit?gid=1151484250#gid=1151484250)
+
+---
+## 📢 Course Recap & Announcements
+
+Follow all updates, session recaps, and announcements on LinkedIn:  
+🔗[Linkedin Recap](https://www.linkedin.com/feed/update/urn:li:activity:7335912737450962944/)
 
 ---
 
