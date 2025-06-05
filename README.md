@@ -85,12 +85,11 @@ Follow all updates, session recaps, and announcements on LinkedIn:
 
 ## 🎥 Session Recordings & Details (Sample)
 
-| Date      | Day   | Recording Link                                                   | Views        | Trainer       | Topic                              |
-|-----------|-------|-----------------------------------------------------------------|--------------|---------------|-----------------------------------|
-| 6/2/2025  | Mon   | https://www.facebook.com/share/v/19yAg8i94e/                    | 1480, 977    | Muhammad Jasim| Intro to DSA, Big-O Notation, Python Recap |
-| 6/3/2025  | Tue   | https://www.facebook.com/share/v/1AZ7xJrcMS/                    | 704, 35, 69  | Esha Tariq    | Binary Search (Basics)             |
-
----
+| Date      | Day   | Recording Link                                                   | Views           | Trainer        | Topic                                         |
+|-----------|-------|------------------------------------------------------------------|------------------|----------------|-----------------------------------------------|
+| 6/2/2025  | Mon   | [Link](https://www.facebook.com/share/v/19yAg8i94e/)             | 1480, 977        | Muhammad Jasim | Intro to DSA, Big-O Notation, Python Recap    |
+| 6/3/2025  | Tue   | [Link](https://www.facebook.com/share/v/1AZ7xJrcMS/)             | 704, 35, 69      | Eesha Tariq    | Binary Search (Basics)                        |
+| 6/4/2025  | Wed   | [Link](https://www.facebook.com/share/v/1C4EN5aTjQ/)             | 34, 852, 278     | Muhammad Jasim | Binary Search Variants                        |
 
 **Thank you for being part of this mission to democratize coding education.**  
 Feel free to contribute or reach out for collaboration!
