@@ -85,11 +85,15 @@ Follow all updates, session recaps, and announcements on LinkedIn:
 
 ## 🎥 Session Recordings & Details (Sample)
 
-| Date      | Day   | Recording Link                                                   | Views           | Trainer        | Topic                                         |
-|-----------|-------|------------------------------------------------------------------|------------------|----------------|-----------------------------------------------|
-| 6/2/2025  | Mon   | [Link](https://www.facebook.com/share/v/19yAg8i94e/)             | 1480, 977        | Muhammad Jasim | Intro to DSA, Big-O Notation, Python Recap    |
-| 6/3/2025  | Tue   | [Link](https://www.facebook.com/share/v/1AZ7xJrcMS/)             | 704, 35, 69      | Eesha Tariq    | Binary Search (Basics)                        |
-| 6/4/2025  | Wed   | [Link](https://www.facebook.com/share/v/1C4EN5aTjQ/)             | 34, 852, 278     | Muhammad Jasim | Binary Search Variants                        |
+| Date       | Day   | Recording Link                                                   | Views              | Trainer(s)             | Topic                                              |
+|------------|-------|------------------------------------------------------------------|---------------------|-------------------------|----------------------------------------------------|
+| 6/2/2025   | Mon   | [Link](https://www.facebook.com/share/v/19yAg8i94e/)             | 1480, 977           | Muhammad Jasim          | Intro to DSA, Big-O Notation, Python Recap         |
+| 6/3/2025   | Tue   | [Link](https://www.facebook.com/share/v/1AZ7xJrcMS/)             | 704, 35, 69         | Eesha Tariq             | Binary Search (Basics) + LeetCode Problems         |
+| 6/4/2025   | Wed   | [Link](https://www.facebook.com/share/v/1C4EN5aTjQ/)             | 34, 852, 278        | Muhammad Jasim          | Binary Search Variants + LeetCode Practice         |
+| 6/5/2025   | Thu   | [Link](https://www.facebook.com/share/v/1YErUvBdKL/)             | 744, 875            | Eesha Tariq, M. Jasim    | Edge Cases, Complexity + LeetCode Walkthrough      |
+| 6/11/2025  | Wed   | [Link](https://www.facebook.com/share/v/16nZuzo6X9/)             | 215, 347            | Masab Afzal             | Selection & Insertion Sort + LeetCode Problems     |
+| 6/12/2025  | Thu   | —                                                                | 242, 451, 56        | —                       | Merge Sort, QuickSort & Intro to Heaps + Problems  |
+
 
 **Thank you for being part of this mission to democratize coding education.**  
 Feel free to contribute or reach out for collaboration!
