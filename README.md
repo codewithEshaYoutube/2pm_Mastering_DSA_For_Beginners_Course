@@ -98,6 +98,8 @@ Follow all updates, session recaps, and announcements on LinkedIn:
 | 6/17/2025  | Tue   | [Link](https://www.facebook.com/share/v/1AnN8cL9QF/)             | 206, 104            | Muhammad Jasim           | Recursion with Arrays & Strings                                    |
 | 6/18/2025  | Wed   | [Link](https://www.facebook.com/share/v/1CCFNX97re/)             | 78, 90, 77          | Masab Afzal              | Backtracking Intro + Subsets                                       |
 | 6/19/2025  | Thu   | [Link](https://www.facebook.com/share/v/1KWhvSeciS/)             | 46, 39, 22          | Eesha Tariq              | Backtracking Advanced                                              |
+| 6/20/2025	  | Fri   | [Link](https://www.facebook.com/share/v/1ErQq6mV8r/)             |          |  Muhammad Jasim         | Student Presentations - Recursion/backtracking	                              |
+
 
 **Thank you for being part of this mission to democratize coding education.**  
 Feel free to contribute or reach out for collaboration!
