@@ -102,7 +102,9 @@ Follow all updates, session recaps, and announcements on LinkedIn:
 | 6/23/2025  | Mon   | [Link](https://www.facebook.com/share/v/1BAc7qhjxX/)             | 1,383, 13           | Masab Afzal              | Hash Maps and Frequency Counters                                  |
 | 6/24/2025  | Tue   | [Link](https://www.facebook.com/share/v/1ZZasgVMqd/)             | 217, 136, 349       | Muhammad Jasim           | Sets & HashMap Use Cases                                          |
 | 6/25/2025  | Wed   | [Link](https://web.facebook.com/share/v/1AhjvScxTU/)             | 49, 290, 451        | Eesha Tariq              | Grouping & Pattern Matching                                       |
-
+| 6/26/2025  | Thu   | [Link](https://www.facebook.com/share/v/191nhQcGWJ/)             | 219, 76             | Muhammad Jasim           | Hash Map Patterns                                                 |
+| 6/27/2025  | Fri   | [Link](https://www.facebook.com/share/v/14u4FtWxYr/)             | —                   | Muhammad Jasim           | Student Presentations - Hashing Problem                           |
+| 6/30/2025  | Mon   | [Link](https://www.facebook.com/share/v/19kV2SNw6T/)             | 283, 167, 26        | Eesha Tariq, M. Jasim     | Array Techniques                                                  |
 
 **Thank you for being part of this mission to democratize coding education.**  
 Feel free to contribute or reach out for collaboration!
