@@ -87,25 +87,31 @@ Follow all updates, session recaps, and announcements on LinkedIn:
 
 | Date       | Day   | Recording Link                                                   | Views              | Trainer(s)              | Topic                                                              |
 |------------|-------|------------------------------------------------------------------|---------------------|--------------------------|--------------------------------------------------------------------|
-| 6/2/2025   | Mon   | [Link](https://www.facebook.com/share/v/19yAg8i94e/)             | 1480, 977           | Muhammad Jasim           | Intro to DSA, Big-O Notation, Python Recap                         |
-| 6/3/2025   | Tue   | [Link](https://www.facebook.com/share/v/1AZ7xJrcMS/)             | 704, 35, 69         | Eesha Tariq              | Binary Search (Basics) + LeetCode Problems                         |
-| 6/4/2025   | Wed   | [Link](https://www.facebook.com/share/v/1C4EN5aTjQ/)             | 34, 852, 278        | Muhammad Jasim           | Binary Search Variants + LeetCode Practice                         |
-| 6/5/2025   | Thu   | [Link](https://www.facebook.com/share/v/1YErUvBdKL/)             | 744, 875            | Eesha Tariq, M. Jasim     | Edge Cases, Complexity + LeetCode Walkthrough                      |
-| 6/11/2025  | Wed   | [Link](https://www.facebook.com/share/v/16nZuzo6X9/)             | 215, 347            | Masab Afzal              | Selection & Insertion Sort + LeetCode Problems                     |
-| 6/12/2025  | Thu   | [Link](https://www.facebook.com/share/v/19FBd2ujus/)             | 242, 451, 56        | Eesha Tariq, M. Jasim     | Merge Sort, QuickSort & Intro to Heaps + Problems                  |
-| 6/13/2025  | Fri   | [Link](https://www.facebook.com/share/v/152Z4rnMbn/)             | —                   | Muhammad Jasim           | Student Presentations – Sorting Techniques + Problem Discussion    |
-| 6/16/2025  | Mon   | [Link](https://www.facebook.com/share/v/1ArJ7iqb9y/)             | 509                 | Eesha Tariq              | Recursion Basics + LeetCode Questions + Intro to Backtracking      |
-| 6/17/2025  | Tue   | [Link](https://www.facebook.com/share/v/1AnN8cL9QF/)             | 206, 104            | Muhammad Jasim           | Recursion with Arrays & Strings                                    |
-| 6/18/2025  | Wed   | [Link](https://www.facebook.com/share/v/1CCFNX97re/)             | 78, 90, 77          | Masab Afzal              | Backtracking Intro + Subsets                                       |
-| 6/19/2025  | Thu   | [Link](https://www.facebook.com/share/v/1KWhvSeciS/)             | 46, 39, 22          | Eesha Tariq              | Backtracking Advanced                                              |
-| 6/20/2025  | Fri   | [Link](https://www.facebook.com/share/v/1ErQq6mV8r/)             | —                   | Muhammad Jasim           | Student Presentations - Recursion/backtracking                    |
-| 6/23/2025  | Mon   | [Link](https://www.facebook.com/share/v/1BAc7qhjxX/)             | 1,383, 13           | Masab Afzal              | Hash Maps and Frequency Counters                                  |
-| 6/24/2025  | Tue   | [Link](https://www.facebook.com/share/v/1ZZasgVMqd/)             | 217, 136, 349       | Muhammad Jasim           | Sets & HashMap Use Cases                                          |
-| 6/25/2025  | Wed   | [Link](https://web.facebook.com/share/v/1AhjvScxTU/)             | 49, 290, 451        | Eesha Tariq              | Grouping & Pattern Matching                                       |
-| 6/26/2025  | Thu   | [Link](https://www.facebook.com/share/v/191nhQcGWJ/)             | 219, 76             | Muhammad Jasim           | Hash Map Patterns                                                 |
-| 6/27/2025  | Fri   | [Link](https://www.facebook.com/share/v/14u4FtWxYr/)             | —                   | Muhammad Jasim           | Student Presentations - Hashing Problem                           |
-| 6/30/2025  | Mon   | [Link](https://www.facebook.com/share/v/19kV2SNw6T/)             | 283, 167, 26        | Eesha Tariq, M. Jasim     | Array Techniques                                                  |
+| 06/02/2025 | Mon   | [Link](https://www.facebook.com/share/v/19yAg8i94e/)             | 1480, 977           | Muhammad Jasim           | Intro to DSA, Big-O Notation, Python Recap                         |
+| 06/03/2025 | Tue   | [Link](https://www.facebook.com/share/v/1AZ7xJrcMS/)             | 704, 35, 69         | Eesha Tariq              | Binary Search (Basics) + LeetCode Problems                         |
+| 06/04/2025 | Wed   | [Link](https://www.facebook.com/share/v/1C4EN5aTjQ/)             | 34, 852, 278        | Muhammad Jasim           | Binary Search Variants + LeetCode Practice                         |
+| 06/05/2025 | Thu   | [Link](https://www.facebook.com/share/v/1YErUvBdKL/)             | 744, 875            | Eesha Tariq, M. Jasim     | Edge Cases, Complexity + LeetCode Walkthrough                      |
+| 06/11/2025 | Wed   | [Link](https://www.facebook.com/share/v/16nZuzo6X9/)             | 215, 347            | Masab Afzal              | Selection & Insertion Sort + LeetCode Problems                     |
+| 06/12/2025 | Thu   | [Link](https://www.facebook.com/share/v/19FBd2ujus/)             | 242, 451, 56        | Eesha Tariq, M. Jasim     | Merge Sort, QuickSort & Intro to Heaps + Problems                  |
+| 06/13/2025 | Fri   | [Link](https://www.facebook.com/share/v/152Z4rnMbn/)             | —                   | Muhammad Jasim           | Student Presentations – Sorting Techniques + Problem Discussion    |
+| 06/16/2025 | Mon   | [Link](https://www.facebook.com/share/v/1ArJ7iqb9y/)             | 509                 | Eesha Tariq              | Recursion Basics + LeetCode Questions + Intro to Backtracking      |
+| 06/17/2025 | Tue   | [Link](https://www.facebook.com/share/v/1AnN8cL9QF/)             | 206, 104            | Muhammad Jasim           | Recursion with Arrays & Strings                                    |
+| 06/18/2025 | Wed   | [Link](https://www.facebook.com/share/v/1CCFNX97re/)             | 78, 90, 77          | Masab Afzal              | Backtracking Intro + Subsets                                       |
+| 06/19/2025 | Thu   | [Link](https://www.facebook.com/share/v/1KWhvSeciS/)             | 46, 39, 22          | Eesha Tariq              | Backtracking Advanced                                              |
+| 06/20/2025 | Fri   | [Link](https://www.facebook.com/share/v/1ErQq6mV8r/)             | —                   | Muhammad Jasim           | Student Presentations - Recursion/backtracking                    |
+| 06/23/2025 | Mon   | [Link](https://www.facebook.com/share/v/1BAc7qhjxX/)             | 1383, 13            | Masab Afzal              | Hash Maps and Frequency Counters                                  |
+| 06/24/2025 | Tue   | [Link](https://www.facebook.com/share/v/1ZZasgVMqd/)             | 217, 136, 349       | Muhammad Jasim           | Sets & HashMap Use Cases                                          |
+| 06/25/2025 | Wed   | [Link](https://web.facebook.com/share/v/1AhjvScxTU/)             | 49, 290, 451        | Eesha Tariq              | Grouping & Pattern Matching                                       |
+| 06/26/2025 | Thu   | [Link](https://www.facebook.com/share/v/191nhQcGWJ/)             | 219, 76             | Muhammad Jasim           | Hash Map Patterns                                                 |
+| 06/27/2025 | Fri   | [Link](https://www.facebook.com/share/v/14u4FtWxYr/)             | —                   | Muhammad Jasim           | Student Presentations - Hashing Problem                           |
+| 06/30/2025 | Mon   | [Link](https://www.facebook.com/share/v/19kV2SNw6T/)             | 283, 167, 26        | Eesha Tariq, M. Jasim     | Array Techniques                                                  |
+| 07/01/2025 | Tue   | [Link](https://www.facebook.com/share/v/16mBRjU9po/)             | 125, 14, 344        | Muhammad Jasim           | String Basics & Manipulation                                      |
+| 07/02/2025 | Wed   | [Link](https://www.facebook.com/share/v/1JkeQtZfZs/)             | 3, 76, 567          | Eesha Tariq              | Sliding Window (Fixed & Variable)                                 |
+| 07/03/2025 | Thu   | [Link](https://www.facebook.com/share/v/1AtRP3Ei8M/)             | 1234, 643           | Eesha Tariq              | Sliding Window + Two Pointer Review                               |
 
-**Thank you for being part of this mission to democratize coding education.**  
+---
+
+**🙏 Thank you for being part of this mission to democratize coding education.**  
 Feel free to contribute or reach out for collaboration!
+
 
