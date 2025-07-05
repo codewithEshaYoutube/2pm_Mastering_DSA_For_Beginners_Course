@@ -1,4 +1,4 @@
- # 📚 2PM Mastering DSA For Beginners Course
+   # 📚 2PM Mastering DSA For Beginners Course
 
 Welcome to the official repository for the **2PM Mastering DSA For Beginners Course**, a volunteer-led initiative under **iCodeGuru**. This course is designed to build a strong foundation in **Data Structures and Algorithms (DSA)** using a **LeetCode-focused** and algorithm-based approach — specially curated for underprivileged and aspiring tech learners.
 
