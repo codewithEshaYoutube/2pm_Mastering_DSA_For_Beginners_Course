@@ -108,8 +108,11 @@ Follow all updates, session recaps, and announcements on LinkedIn:
 | 07/01/2025 | Tue   | [Link](https://www.facebook.com/share/v/16mBRjU9po/)             | 125, 14, 344        | Muhammad Jasim           | String Basics & Manipulation                                      |
 | 07/02/2025 | Wed   | [Link](https://www.facebook.com/share/v/1JkeQtZfZs/)             | 3, 76, 567          | Eesha Tariq              | Sliding Window (Fixed & Variable)                                 |
 | 07/03/2025 | Thu   | [Link](https://www.facebook.com/share/v/1AtRP3Ei8M/)             | 1234, 643           | Eesha Tariq              | Sliding Window + Two Pointer Review                               |
-
----
+| 07/07/2025 | Mon   | [Link](https://fb.watch/AIrErQVlCB/)                             | 200, 133            | Eesha Tariq              | Graph Basics & BFS                                                |
+| 07/08/2025 | Tue   | [Link](https://www.facebook.com/share/v/1FzTuQKp3B/)             | 207, 785            | Muhammad Jasim           | DFS & Cycle Detection                                             |
+| 07/09/2025 | Wed   | [Link](https://www.facebook.com/share/v/19ncxmGJfi/)             | 70, 198             | Muhammad Jasim, Eesha Tariq | DP Concepts & Memoization                                      |
+| 07/10/2025 | Thu   | [Link](https://www.facebook.com/share/v/16p2jd3WCm/)             | 322, 53             | Eesha Tariq, M. Jasim     | Tabulation & Classic DP Problems                                  |
+| 07/11/2025 | Fri   | [Link](https://www.facebook.com/share/v/16p2jd3WCm/)             | —                   | Eesha Tariq              | Student Presentations - Graph or DP problem                       |
 
 **🙏 Thank you for being part of this mission to democratize coding education.**  
 Feel free to contribute or reach out for collaboration!
